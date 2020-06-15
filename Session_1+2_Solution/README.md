@@ -1,5 +1,4 @@
 # Naming Convention
-===
 
 Please name your file folowing structure: <Name> + <file name>
 
